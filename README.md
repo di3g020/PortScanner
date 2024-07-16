@@ -10,7 +10,7 @@ Este script Python realiza uma varredura nas portas TCP de um endereço IP espec
 
 ### Exemplo de Funcionamento
 
-![Exemplo de Port Scanner](#)
+![Exemplo de Port Scanner](https://raw.githubusercontent.com/di3g020/PortScanner/main/pic.png)
 
 ## 🔧 Requisitos
 
@@ -22,7 +22,7 @@ Este script Python realiza uma varredura nas portas TCP de um endereço IP espec
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/port-scanner-python.git
+    git clone https://github.com/di3g020/PortScanner.git
     ```
 
 2. Navegue até o diretório do projeto:
