@@ -44,7 +44,7 @@ Este script Python realiza uma varredura nas portas TCP de um endereço IP espec
     **Exemplo:**
 
     ```bash
-    python scanner.py 192.168.1.1 20 80
+    python scanner.py 192.168.1.1
     ```
 
     Este comando escaneará as portas no IP `192.168.1.1`.
